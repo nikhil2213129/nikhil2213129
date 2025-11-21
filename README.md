@@ -9,3 +9,18 @@ Hi there, I'm M. Nikhil Kumar 👋
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil2213129&show_icons=true&theme=radical)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2213129&layout=compact&theme=radical)
+
+<!-- Contribution Graph -->
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nikhil2213129&theme=react-dark&area=true&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil2213129&theme=radical)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil2213129&color=radical)
+
+<!-- Wakatime Stats (coding time, if you use Wakatime) -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhil2213129&theme=radical)
