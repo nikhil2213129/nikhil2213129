@@ -1,4 +1,4 @@
-# Hi there, I'm M. Nikhil Kumar 👋
+Hi there, I'm M. Nikhil Kumar 👋
 
 - 📧 Email: nikhilkumarmakam2004@gmail.com  
 - LeetCode: [https://leetcode.com/u/nikhilkumarmakam2004/](https://leetcode.com/u/nikhilkumarmakam2004/)  
