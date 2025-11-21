@@ -18,6 +18,3 @@ Thank you for visiting my profile! Feel free to explore my repositories and get 
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil2213129&theme=radical)
-
-<!-- Wakatime Stats (coding time, if you use Wakatime) -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhil2213129&theme=radical)
