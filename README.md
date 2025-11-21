@@ -20,7 +20,7 @@ Thank you for visiting my profile! Feel free to explore my repositories and get 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil2213129&theme=radical)
 
 <!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=nikhil2213129&color=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil2213129&color=dark)
 
 <!-- Wakatime Stats (coding time, if you use Wakatime) -->
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikhil2213129&theme=radical)
