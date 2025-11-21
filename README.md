@@ -33,10 +33,9 @@ A framework combining real-time data streaming and Random Forest Regression to f
 - Concepts: Predictive Analytics, Data Cleaning, Real-time Data Processing
 
 ## Let's Connect
-- 📧 Email:
-  nikhilkumarmakam2004@gmail.com
-- Leet Code : https://leetcode.com/u/nikhilkumarmakam2004/
-- CodeForce : https://codeforces.com/profile/NIKHIL2213129
+- 📧 Email: nikhilkumarmakam2004@gmail.com  
+- LeetCode: [https://leetcode.com/u/nikhilkumarmakam2004/](https://leetcode.com/u/nikhilkumarmakam2004/)  
+- Codeforces: [https://codeforces.com/profile/NIKHIL2213129](https://codeforces.com/profile/NIKHIL2213129)
 
 ---
 
