@@ -1,15 +1,15 @@
 # Hi there, I'm M. Nikhil Kumar 👋
 
-# About Me
+About Me
 I am an aspiring data scientist and programmer with a strong interest in cybersecurity and machine learning. Currently pursuing my graduation in Hyderabad, I enjoy leveraging technology to solve complex problems and build innovative solutions.
 
-# My Interests & Expertise
+My Interests & Expertise
 - Data Science & Machine Learning
 - Cybersecurity
 - Python Programming & Automation
 - Embedded Systems & IoT
 
-# 🚀 Featured Projects
+Featured Projects
 
 ### [E-commerce Product Recommendation System](https://github.com/nikhil2213129/E-commerce-Product-Recommendation-System)  
 A personalized recommendation system designed for e-commerce platforms, enhancing user experience by suggesting relevant products based on previous interactions.
@@ -26,7 +26,7 @@ Utilizes predictive analytics and automation to enhance customer experience and 
 ### [Market Orders Predictive Analysis](https://github.com/nikhil2213129/End-to-End-Predictive-Analysis-solution-for-Market-Orders)  
 A framework combining real-time data streaming and Random Forest Regression to forecast market order volumes accurately.
 
-# Skills & Technologies
+Skills & Technologies
 - Languages: Python, C/C++
 - Machine Learning: PyTorch, StyleGAN2, Random Forests
 - Tools: Git, Jupyter Notebooks, Arduino
