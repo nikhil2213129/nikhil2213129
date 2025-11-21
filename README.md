@@ -14,7 +14,7 @@ Thank you for visiting my profile! Feel free to explore my repositories and get 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2213129&layout=compact&theme=radical)
 
 <!-- Contribution Graph -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nikhil2213129&theme=react-dark&area=true&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhil2213129&theme=radical)
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil2213129&theme=radical)
