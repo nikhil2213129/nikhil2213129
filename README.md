@@ -15,6 +15,3 @@ Thank you for visiting my profile! Feel free to explore my repositories and get 
 
 <!-- Contribution Graph -->
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhil2213129&theme=radical)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhil2213129&theme=radical)
