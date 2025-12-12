@@ -7,10 +7,10 @@
 
 ##  About Me
 
-- 🎓 B.E. student at Chaitanya Bharathi Institute of Technology, Hyderabad  
-- 💻 Passionate about Data Structures & Algorithms and competitive programming  
-- 🧩 Regularly solving problems on LeetCode and sharpening problem-solving skills  
-- 🩺 Exploring medicine alongside computer science  
+-  B.E. student at Chaitanya Bharathi Institute of Technology, Hyderabad  
+-  Passionate about Data Structures & Algorithms and competitive programming  
+-  Regularly solving problems on LeetCode and sharpening problem-solving skills  
+-  Exploring medicine alongside computer science  
 
 ---
 
@@ -22,9 +22,6 @@
   </a>
   <a href="https://leetcode.com/u/nikhilkumarmakam2004/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/nikhil2213129">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
