@@ -2,7 +2,6 @@ Hi there, I'm M. Nikhil Kumar 👋
 
 - 📧 Email: nikhilkumarmakam2004@gmail.com  
 - LeetCode: [https://leetcode.com/u/nikhilkumarmakam2004/](https://leetcode.com/u/nikhilkumarmakam2004/)  
-- Codeforces: [https://codeforces.com/profile/NIKHIL2213129](https://codeforces.com/profile/NIKHIL2213129)
 
 ---
 
