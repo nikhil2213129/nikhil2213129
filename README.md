@@ -9,8 +9,7 @@
 
 -  B.E. student at Chaitanya Bharathi Institute of Technology, Hyderabad  
 -  Passionate about Data Structures & Algorithms and competitive programming  
--  Regularly solving problems on LeetCode and sharpening problem-solving skills  
--  Exploring medicine alongside computer science  
+-  Regularly solving problems on LeetCode and sharpening problem-solving skills    
 
 ---
 
