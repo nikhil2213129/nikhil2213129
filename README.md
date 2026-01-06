@@ -7,9 +7,10 @@
 
 ##  About Me
 
--  B.E. student at Chaitanya Bharathi Institute of Technology, Hyderabad  
+-  Freelancer and Software Engineer (Currently working in Accenture)
+-  B.E. student at Chaitanya Bharathi Institute of Technology (Tier 3 College), Hyderabad  
 -  Passionate about Data Structures & Algorithms and competitive programming  
--  Regularly solving problems on LeetCode and sharpening problem-solving skills    
+-  Practicing in Leetcode in free time. Regularly invovling in real world development.    
 
 ---
 
@@ -44,8 +45,9 @@
 
 ##  What I’m Working On
 
-- Solving DSA problems daily for placements and internships  
-- Building small projects to apply algorithms and system design basics  
+- Bulding and Integrated algorithm (Kyber+Dilithium+ECC) for Future TLS security
+- Working on Increasing my network, Loved my work? Follow Me  
+- Freelancer (Software Engineer)
 - Improving code quality, readability, and performance in C++, Java, and Python  
 
 
