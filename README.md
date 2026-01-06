@@ -39,6 +39,9 @@
 
 ---
 
+<!-- Contribution Graph -->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhil2213129&theme=radical)
+
 ##  What I’m Working On
 
 - Solving DSA problems daily for placements and internships  
