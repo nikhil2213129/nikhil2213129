@@ -45,7 +45,7 @@
 
 ##  What I’m Working On
 
-- Bulding and Integrated algorithm (Kyber+Dilithium+ECC) for Future TLS security
+- Bulding an Integrated algorithm (Kyber+Dilithium+ECC) for Future TLS security
 - Working on Increasing my network, Loved my work? Follow Me  
 - Freelancer (Software Engineer)
 - Improving code quality, readability, and performance in C++, Java, and Python  
