@@ -23,6 +23,10 @@
   <a href="https://leetcode.com/u/nikhilkumarmakam2004/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href = "https://medium.com/@nikhilkumarmakam2004"> 
+    <img src="https://img.shields.io/badge/Read%20on-Medium-black?logo=medium&logoColor=white" 
+         style="height:30px;">
+  </a>
 </p>
 
 ---
