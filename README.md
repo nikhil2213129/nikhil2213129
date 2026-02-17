@@ -7,7 +7,8 @@
 
 ##  About Me
 
--  Freelancer and Software Engineer (Currently working in Accenture)
+-  Software Engineer
+-  Freelancer
 -  B.E. student at Chaitanya Bharathi Institute of Technology (Tier 3 College), Hyderabad  
 -  Passionate about Data Structures & Algorithms and competitive programming  
 -  Practicing in Leetcode in free time. Regularly invovling in real world development.    
