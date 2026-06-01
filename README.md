@@ -55,18 +55,6 @@
 - Freelancer (Software Engineer)
 - Improving code quality, readability, and performance in C++, Java, and Python  
 
-
-<!-- Optional: your own self-hosted stats if you ever add them later -->
-<!--
-<p align="center">
-  <img src="https://YOUR_STATS_APP.vercel.app/api?username=nikhil2213129&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://YOUR_STATS_APP.vercel.app/api/top-langs/?username=nikhil2213129&layout=compact&theme=radical" alt="Top Languages" />
-</p>
--->
----
-<!-- Contribution Graph 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhil2213129&theme=radical)
--->
 ---
 ##  Outside Code
 
