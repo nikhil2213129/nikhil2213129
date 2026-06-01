@@ -9,7 +9,7 @@
 
 -  Software Engineer
 -  Freelancer
--  B.E. student at Chaitanya Bharathi Institute of Technology (Tier 3 College), Hyderabad  
+-  B.E. student at Chaitanya Bharathi Institute of Technology, Hyderabad  
 -  Passionate about Data Structures & Algorithms and competitive programming  
 -  Practicing in Leetcode in free time. Regularly invovling in real world development.    
 
